@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string-array name = "cursos">
+    <item> 1r ESO</item>
+    <item> 2n ESO</item>
+    <item> 3r ESO</item>
+    <item> 4t ESO</item>
+    </string-array>
+</resources>
